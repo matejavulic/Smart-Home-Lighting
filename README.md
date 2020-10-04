@@ -1,2 +1,7 @@
 # Smart-Home-Lighting
-Smart home automaton system which allows users to control lights even thou they are not at home.
+
+## Description
+A smart home automation system allowing users to control lights even though they are not at home.
+
+## Contact
+If you have any questions, feel free to write me an e-mail at matejavulic@gmail.com
